@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664516914676' stop='1664516923441'>
+    <name>My first non angular class</name>
+    <title>My first non angular class</title>
+    <test-cases>
+        <test-case start='1664516914677' status='passed' stop='1664516918393'>
+            <name>should navigate to stack overflow login page</name>
+            <title>should navigate to stack overflow login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a7dd5698-7823-446c-84ab-a32176ed7754-attachment.png' type='image/png' size='646040'/>
+            </attachments>
+        </test-case>
+        <test-case start='1664516918393' status='passed' stop='1664516923440'>
+            <name>My function</name>
+            <title>My function</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a16fc4bc-d4ab-43c3-a7ed-3d14d135c6bd-attachment.png' type='image/png' size='180571'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

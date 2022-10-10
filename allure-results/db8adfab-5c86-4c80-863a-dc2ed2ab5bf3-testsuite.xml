@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664440695323' stop='1664440717578'>
+    <name>A suite is just a function</name>
+    <title>A suite is just a function</title>
+    <test-cases>
+        <test-case start='1664440695324' status='passed' stop='1664440717577'>
+            <name>Vijaysals login</name>
+            <title>Vijaysals login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='529b4ff0-7372-4c97-a895-9b4a08bd7a97-attachment.png' type='image/png' size='174721'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

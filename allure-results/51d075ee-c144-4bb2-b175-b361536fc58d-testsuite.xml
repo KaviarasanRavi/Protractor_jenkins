@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664806340636' stop='1664806348788'>
+    <name>My first non angular class</name>
+    <title>My first non angular class</title>
+    <test-cases>
+        <test-case start='1664806340636' status='passed' stop='1664806347826'>
+            <name>should navigate to stack overflow login page</name>
+            <title>should navigate to stack overflow login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='25503386-0c55-424a-ac2f-f1040ebf5813-attachment.png' type='image/png' size='636902'/>
+            </attachments>
+        </test-case>
+        <test-case start='1664806347826' status='passed' stop='1664806348294'>
+            <name>My function</name>
+            <title>My function</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='531334d8-8594-4865-a1cf-f77c4f27c76d-attachment.png' type='image/png' size='636902'/>
+            </attachments>
+        </test-case>
+        <test-case start='1664806348294' status='failed' stop='1664806348787'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7046342c-f516-4a7f-b355-77f68ea13758-attachment.png' type='image/png' size='636902'/>
+            </attachments>
+            <failure>
+                <message>TypeError: it(...) is not a function</message>
+                <stack-trace>TypeError: it(...) is not a function
+                    at E:\Protractor\03-10\Protractorframework\Testcase\Smoke\product1vijaysales.js:19:10
+                    at Array.forEach (&lt;anonymous>)
+                    at Suite.&lt;anonymous> (E:\Protractor\03-10\Protractorframework\Testcase\Smoke\product1vijaysales.js:11:21)
+                    at addSpecsToSuite (C:\Users\RBT\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\RBT\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\RBT\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (E:\Protractor\03-10\Protractorframework\Testcase\Smoke\product1vijaysales.js:4:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+                    at Module.load (internal/modules/cjs/loader.js:977:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

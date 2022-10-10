@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664543840624' stop='1664543854242'>
+    <name>My first non angular class</name>
+    <title>My first non angular class</title>
+    <test-cases>
+        <test-case start='1664543840624' status='passed' stop='1664543844297'>
+            <name>should navigate to stack overflow login page</name>
+            <title>should navigate to stack overflow login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='60e8c249-7fc1-4f7d-864b-7903e9f3ecfa-attachment.png' type='image/png' size='649850'/>
+            </attachments>
+        </test-case>
+        <test-case start='1664543844297' status='passed' stop='1664543854241'>
+            <name>My function</name>
+            <title>My function</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1664543844298' status='passed' stop='1664543844300'>
+                    <name>verified that user able to search the products in search box</name>
+                    <title>verified that user able to search the products in search box</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='efa1e2b1-1089-4f5a-bc53-eb5b9621271b-attachment.png' type='image/png' size='184380'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
